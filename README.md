@@ -15,7 +15,7 @@ The data was analyzed to explore trends and relationships, including:
 
 - Area vs. Pitting Behavior: Relationship between droplet area and the number of stable and metastable pits.
 
--OCP and Ecorr Comparisons: Between PDPs showing pitting and those without pitting.
+- OCP and Ecorr Comparisons: Between PDPs showing pitting and those without pitting.
 
 3) Regression Models:
 
